@@ -1,10 +1,9 @@
-package com.example.devmon.view
+package com.example.devmon.ui.view
 
 import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.fragment.NavHostFragment
-import com.example.devmon.NavigationViewModel
 import com.example.devmon.R
 import dagger.hilt.android.AndroidEntryPoint
 
